@@ -1,0 +1,1 @@
+set path=%path%;D:\node-v20.17.0-win-x64
